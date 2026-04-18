@@ -46,3 +46,6 @@ Developed by Computer Science students at **King Faisal University**:
 
 ---
 *Developed for the Advanced Software Engineering Course - KFU.*
+---
+*Connect with me on LinkedIn for more projects!*
+https://www.linkedin.com/in/ateka-hussain/
